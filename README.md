@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tekeste42
+- 👋 Hi, I’m Jonathan 
 - 👀 I’m interested in web development mainly front-end.
 - 🌱 I’m currently learning typescript and graphql
 - 💞️ I’m looking to collaborate on new projects
